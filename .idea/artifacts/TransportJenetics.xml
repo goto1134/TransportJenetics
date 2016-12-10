@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TransportJenetics">
+    <output-path>$PROJECT_DIR$/out/artifacts/TransportJenetics</output-path>
+    <root id="archive" name="TransportJenetics.jar">
+      <element id="module-output" name="RandomSearchOptimisation_main" />
+      <element id="library" level="project" name="Gradle: org.bitbucket.fwilhelm:org.jenetics:3.6.0" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

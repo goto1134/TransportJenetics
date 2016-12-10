@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TransportJenetics.iml" filepath="$PROJECT_DIR$/.idea/modules/TransportJenetics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TransportJenetics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TransportJenetics_main.iml" group="TransportJenetics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TransportJenetics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TransportJenetics_test.iml" group="TransportJenetics" />
+    </modules>
+  </component>
+</project>
